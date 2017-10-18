@@ -105,6 +105,7 @@ public class SampleApplicationLike extends DefaultApplicationLike {
 
         // TODO: 安装tinker
         Beta.installTinker(this);
+        ///sssssss
     }
 
     @TargetApi(Build.VERSION_CODES.ICE_CREAM_SANDWICH)
